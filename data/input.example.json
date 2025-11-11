@@ -1,0 +1,7 @@
+{
+    "hashtag": "Messi",
+    "max_pages": 2,
+    "output_file": "data/output.sample.json",
+    "proxies": [],
+    "user_agents": []
+}
